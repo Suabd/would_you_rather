@@ -21,7 +21,7 @@
       <!--- create list of user choices for the qustions-->
         <ul id='userAnswer'>
         <li v-for="message in userSelectionMessages" v-bind:key="message"> 
-          {{ message }}</li>
+          {{ message }}</li> 
         </ul>
       </div>
     </div>

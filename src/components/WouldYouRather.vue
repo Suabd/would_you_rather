@@ -1,7 +1,7 @@
 <template>
   <div class="wyr">
    
-    <h2>  Would You Rather ..... </h2> ///
+    <h2>  Would You Rather ..... </h2> 
 
     <h3> {{ question }}</h3>
 
