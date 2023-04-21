@@ -1,7 +1,7 @@
 <template>
     <div id="App">
   
-      <h1> Would You Rather?</h1>
+      <h1> Would You Rather?</h1> 
       
       <would-you-rather v-bind:key="question.id" 
         v-for="question in questions"
