@@ -16,7 +16,7 @@
       <!-- this will be the header of the results-->
       <h1 > You would rather ... </h1>
       <!-- this will be shown before the list of user choices-->
-      <p id="userSelection" v-show="!choices"> Try Making a selection above?</p> 
+      <p id="userSelection" v-show="!choices"> Try Making a selection above? </p> 
       
       <!--- create list of user choices for the qustions-->
         <ul id='userAnswer'>

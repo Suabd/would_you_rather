@@ -47,7 +47,7 @@ h3 {
 .wyr {
   border: 2px  rgb(3, 0, 14) solid;
   background: rgb(250, 248, 143);
-  margin: 5px;
+  margin: 10px;
   padding: 10px;
   text-align: left;
 }
